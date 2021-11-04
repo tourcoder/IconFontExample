@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  IconFontExample
 //
-//  Created by TOURCODER on 2019/9/6.
-//  Copyright © 2019 TOURCODER. All rights reserved.
+//  Created by Bin Hua on 2019/9/6.
+//  Copyright © 2019 TOURCODER.COM. All rights reserved.
 //
 
 import UIKit
